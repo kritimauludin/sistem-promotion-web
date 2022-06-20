@@ -21,7 +21,7 @@
             <div class="col-md-10 mx-auto col-lg-5">
                 <div class="p-4 p-md-5 border rounded-3 bg-light">
                     <form action="" method="POST">
-                        <div class="text-center h3">Register</div>
+                        <div class="text-center h3">Register Account</div>
                         <div class="mb-3 p-2">
                             <input type="text" name="username" class="form-control mb-2" placeholder="Username">
                             <input type="password" name="password" class="form-control mb-2" placeholder="Password">
