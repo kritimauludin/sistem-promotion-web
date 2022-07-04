@@ -1,2 +1,2 @@
 test
-feature B
+feature A
